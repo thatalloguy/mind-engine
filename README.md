@@ -1,4 +1,4 @@
-# thatalloguy
+# mind engine
 a game engine for python 
 
 
